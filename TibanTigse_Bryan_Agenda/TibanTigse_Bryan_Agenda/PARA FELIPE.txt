@@ -1,0 +1,5 @@
+#HOLA FELIPE.
+#JavaDoc se encuentra en la ruta "./javadoc/" del proyecto
+#El fichero exportado es .csv que se encuentra en la ruta: ./agenda.csv 
+ del proyecto
+#El driver de Mysql se encuentra en la ruta "./DriverJDBC/"
